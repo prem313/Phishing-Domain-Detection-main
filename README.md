@@ -1,5 +1,3 @@
-Sure, here's a README file template for your phishing domain detection project:
-
 # Phishing Domain Detection using Machine Learning
 
 
